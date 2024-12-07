@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Julian\\Escritorio\\.net core\\APIS\\apiLoadFile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A542EFF0-AEAB-40C3-9BF4-02366E08C068}|apiLoadFile\\apiLoadFile.csproj|c:\\users\\julian\\escritorio\\.net core\\apis\\apiloadfile\\apiloadfile\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A542EFF0-AEAB-40C3-9BF4-02366E08C068}|apiLoadFile\\apiLoadFile.csproj|solutionrelative:apiloadfile\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A542EFF0-AEAB-40C3-9BF4-02366E08C068}|apiLoadFile\\apiLoadFile.csproj|c:\\users\\julian\\escritorio\\.net core\\apis\\apiloadfile\\apiloadfile\\controllers\\loadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A542EFF0-AEAB-40C3-9BF4-02366E08C068}|apiLoadFile\\apiLoadFile.csproj|solutionrelative:apiloadfile\\controllers\\loadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Julian\\Escritorio\\.net core\\APIS\\apiLoadFile\\apiLoadFile\\Dockerfile",
+              "RelativeDocumentMoniker": "apiLoadFile\\Dockerfile",
+              "ToolTip": "C:\\Users\\Julian\\Escritorio\\.net core\\APIS\\apiLoadFile\\apiLoadFile\\Dockerfile",
+              "RelativeToolTip": "apiLoadFile\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T03:48:47.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FileModel.cs",
               "DocumentMoniker": "C:\\Users\\Julian\\Escritorio\\.net core\\APIS\\apiLoadFile\\apiLoadFile\\Models\\FileModel.cs",
               "RelativeDocumentMoniker": "apiLoadFile\\Models\\FileModel.cs",
@@ -50,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "loadFileController.cs",
               "DocumentMoniker": "C:\\Users\\Julian\\Escritorio\\.net core\\APIS\\apiLoadFile\\apiLoadFile\\Controllers\\loadFileController.cs",
               "RelativeDocumentMoniker": "apiLoadFile\\Controllers\\loadFileController.cs",
               "ToolTip": "C:\\Users\\Julian\\Escritorio\\.net core\\APIS\\apiLoadFile\\apiLoadFile\\Controllers\\loadFileController.cs",
               "RelativeToolTip": "apiLoadFile\\Controllers\\loadFileController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswAkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T07:52:13.414Z",
               "EditorCaption": ""

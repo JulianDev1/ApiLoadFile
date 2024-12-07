@@ -30,3 +30,4 @@ C:\Users\Julian\Escritorio\.net core\APIS\apiLoadFile\apiLoadFile\obj\Debug\net8
 C:\Users\Julian\Escritorio\.net core\APIS\apiLoadFile\apiLoadFile\obj\Debug\net8.0\apiLoadFile.pdb
 C:\Users\Julian\Escritorio\.net core\APIS\apiLoadFile\apiLoadFile\obj\Debug\net8.0\apiLoadFile.genruntimeconfig.cache
 C:\Users\Julian\Escritorio\.net core\APIS\apiLoadFile\apiLoadFile\obj\Debug\net8.0\ref\apiLoadFile.dll
+C:\Users\Julian\Escritorio\.net core\APIS\apiLoadFile\apiLoadFile\obj\Debug\net8.0\apiLoadFile.sourcelink.json
